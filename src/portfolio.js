@@ -38,7 +38,7 @@ const socialMediaLinks = {
   gmail: "ulokajidaniel@gmail.com",
   twitter: "https://x.com/UlokajiD",
   facebook: "https://www.facebook.com/ulokajidaniel",
-  medium: "https://medium.com/@ulokajidaniel",
+  // medium: "https://medium.com/@ulokajidaniel",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
@@ -254,7 +254,7 @@ const bigProjects = {
 const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
   subtitle:
-    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+    "Achievements, Certifications, and Some Cool Stuff that I have done !",
 
   achievementsCards: [
     {
